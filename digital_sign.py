@@ -3,8 +3,8 @@
 
 '''All the fame and glory goes to...'''
 __author__ = 'Jason Brown'
-__email__  = 'jason.brown@aptiv.com'
-__date__   = '20201012'
+__email__  = 'jason@jasonbrown.us'
+__date__   = '20201013'
 
 '''Import those modules!'''
 from OpenSSL import crypto
